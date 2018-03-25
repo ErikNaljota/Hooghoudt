@@ -1,0 +1,53 @@
+.productsContent{
+	margin: auto;
+	width: 80%;
+	height: 1000px;
+	background-color: white;
+}
+
+.productsWideImg{
+	float: left;
+	margin-left: 10%;
+	margin-top: 5%;
+	width: 80%;
+	height: 175px;
+
+	border: 1px solid black; /*Delete*/
+	background-color: yellow; /*Delete*/
+}
+
+.productsContentCont1{
+	float: left;
+	margin-left: 10%;
+	margin-top: 5%;
+	width: 80%;
+
+	border: 1px solid black; /*Delete*/
+	background-color: yellow; /*Delete*/
+}
+
+.productsContentCont1Photo{
+	float: left;
+	width: 150px;
+	height: 150px;
+
+	background-color: red;
+}
+
+.productsContentCont1Text{
+	float: left;
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 2%;
+	width: 300px;
+
+	background-color: green; /*Delete*/
+}
+
+.productsContentCont1Button{
+	float: left;
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 2%;
+
+}

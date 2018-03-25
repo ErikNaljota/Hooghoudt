@@ -4,6 +4,7 @@
   <title>Hooghoudt - products</title>
 
   <link rel="stylesheet" type="text/css" href="css/mainCSS.css">
+  <link rel="stylesheet" type="text/css" href="css/productsCSS.css">
 <head>
 
 <body>
@@ -32,7 +33,20 @@
 
   <!-- Content start -->
   <div class="productsContent">
-    
+    <div class="productsWideImg">
+      <h1 style="margin-top: 7%; text-align: center;">PHOTO PLACEHOLDER</h1>
+    </div>
+    <div class="productsContentCont1">
+      <div class="productsContentCont1Photo">
+        <h1 style="margin-top: 20%; text-align: center;">PHOTO HERE</h1>
+      </div>
+      <div class="productsContentCont1Text">
+        <h1>TEXT HERE</h1>
+      </div>
+      <div class="productsContentCont1Button">
+        <h1>TEXT HERE</h1>
+      </div>
+    </div>
   </div>
   <!-- Content end -->
 
