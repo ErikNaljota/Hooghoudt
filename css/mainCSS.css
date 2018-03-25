@@ -23,9 +23,29 @@
 	height: auto;
 	background-color: blue;
 }
+/* menubar items */
 .menubar{
 	float:right;
 	width: 70%;
 	height: 100%;
 	background-color: green;
+}
+.home{
+	height:auto;
+
+}
+.products{
+	height:auto;
+}
+.since{
+	height:auto;
+}
+.about{
+	height:auto;
+}
+.receipe{
+	height:auto;
+}
+.contact{
+	height:auto;
 }
