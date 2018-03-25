@@ -12,16 +12,22 @@
 		</div>
 		<div class="menubar">
 			<div class="home">
+				<p><a href="home.php">Home</a></p>
 			</div>
 			<div class="products">
+				<p><a href="products.php">Products</a></p>
 			</div>
 			<div class="since">
+				<p><a href="since.php">Since</a></p>
 			</div>
 			<div class="about">
+				<p><a href="about.php">About</a></p>
 			</div>
 			<div class="receipe">
+				<p><a href="receipe.php">receipe</a></p>
 			</div>
 			<div class="contact">
+				<p><a href="contact.php">Contact</a></p>
 			</div>
 		</div>
 	</div>
