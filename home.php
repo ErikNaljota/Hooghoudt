@@ -8,7 +8,7 @@
 <div class="body">
 	<div class="header">
 		<div class="logo">
-			<img src="img\hooghoudt-logo.png" alt="Hooghoudt" height="74.4" width="280">
+			<a href="home.php"><img src="img\hooghoudt-logo.png" alt="Hooghoudt" height="74.4" width="280"></a>
 		</div>
 		<div class="menubar">
 			<div class="home">

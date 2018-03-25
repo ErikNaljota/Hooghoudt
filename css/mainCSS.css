@@ -24,12 +24,14 @@
 	height: auto;
 	background-color: blue;
 }
+/* menubar items */
 .menubar{
 	float:right;
 	width: 70%;
 	height: 100%;
 	background-color: green;
 }
+<<<<<<< HEAD
 
 /* Products Page Start */
 .productsContent{
@@ -39,3 +41,24 @@
 	background-color: white;
 }
 /* Products Page End */
+=======
+.home{
+	height:auto;
+
+}
+.products{
+	height:auto;
+}
+.since{
+	height:auto;
+}
+.about{
+	height:auto;
+}
+.receipe{
+	height:auto;
+}
+.contact{
+	height:auto;
+}
+>>>>>>> f77f58658cfd9237454b87f97db75a8c08b41566
