@@ -71,3 +71,22 @@
 .productsContentCont1Button:hover{
   cursor: pointer;
 }
+
+.productsContentCont2{
+	float: left;
+	margin-left: 10%;
+	/* margin-top: 5%; */
+	width: 80%;
+
+	border: 1px solid black; /*Delete*/
+	background-color: yellow; /*Delete*/
+}
+
+
+.productsContentCont2Photo{
+	float: right;
+	width: 150px;
+	height: 150px;
+
+	background-color: red;
+}
