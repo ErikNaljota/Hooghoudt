@@ -45,9 +45,10 @@
         <h1>TEXT HERE</h1>
       </div>
       <div class="productsContentCont1Button">
-        <h1>Learn More</h1>
+        <h1>Learn More</h1> <!-- make hover -->
       </div>
     </div>
+    <div class="hr"></div>
   </div>
   <!-- Content end -->
 

@@ -1,3 +1,14 @@
+.hr{
+  float: left;
+  margin-left: 7.5%;
+  width: 85%;
+  height: 1px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background-color: black;
+  border: 1px solid black;
+}
+
 .productsContent{
 	margin: auto;
 	width: 80%;
@@ -35,6 +46,7 @@
 }
 
 .productsContentCont1Text{
+  font-size: 7pt;
 	float: left;
 	text-align: center;
 	margin-left: 25%;
@@ -46,9 +58,16 @@
 
 .productsContentCont1Button{
 	float: left;
+  font-size: 7pt;
 	text-align: center;
-	margin-left: 25%;
-	margin-top: 2%;
+  padding-left: 6px;
+  padding-right: 6px;
+	margin-left: 34.5%;
+	margin-top: 5%;
   background-color: white;
   border: 2px solid black;
+}
+
+.productsContentCont1Button:hover{
+  cursor: pointer;
 }
