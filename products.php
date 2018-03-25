@@ -5,6 +5,7 @@
 
   <link rel="stylesheet" type="text/css" href="css/mainCSS.css">
   <link rel="stylesheet" type="text/css" href="css/productsCSS.css">
+
 <head>
 
 <body>
@@ -44,7 +45,7 @@
         <h1>TEXT HERE</h1>
       </div>
       <div class="productsContentCont1Button">
-        <h1>TEXT HERE</h1>
+        <h1>Learn More</h1>
       </div>
     </div>
   </div>
