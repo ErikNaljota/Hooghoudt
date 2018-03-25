@@ -11,27 +11,30 @@
 			<a href="home.php"><img src="img\hooghoudt-logo.png" alt="Hooghoudt" height="74.4" width="280"></a>
 		</div>
 		<div class="menubar">
-			<div class="home">
-				<p><a href="home.php">Home</a></p>
+			<div class="menu">
+				<p><a href="contact.php">Contact</a></p>
 			</div>
-			<div class="products">
-				<p><a href="products.php">Products</a></p>
+			<div class="menu">
+				<p><a href="receipe.php">Receipe</a></p>
 			</div>
-			<div class="since">
-				<p><a href="since.php">Since</a></p>
-			</div>
-			<div class="about">
+			<div class="menu">
 				<p><a href="about.php">About</a></p>
 			</div>
-			<div class="receipe">
-				<p><a href="receipe.php">receipe</a></p>
+			<div class="menu">
+				<p><a href="since.php">Since</a></p>
 			</div>
-			<div class="contact">
-				<p><a href="contact.php">Contact</a></p>
+			<div class="menu">
+				<p><a href="products.php">Products</a></p>
+			</div>
+			<div class="menu">
+				<p><a href="home.php">Home</a></p>
 			</div>
 		</div>
 	</div>
 	<div class="mainpage">
+		<!--	 (\(\
+					( -.-)      (bork)
+					o_(")(") 						-->
 		<div class="comercial">
 		</div>
 		<div class="photos">

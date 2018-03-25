@@ -3,6 +3,10 @@
 	padding: 0;
 	font-family: arial;
 }
+body{
+	font-size: 21pt;
+
+}
 /* body bg */
 .body{
 	float:left;
@@ -32,22 +36,19 @@
 	background-color: green;
 }
 
-.home{
+.menu{
+	float: right;
 	height:auto;
-
+	padding: 10px;
+	text-align: center;
+	position: relative;
+	margin-top: 2%;
+	text-decoration: none;
 }
-.products{
-	height:auto;
+.menu a{
+	text-decoration: none;
+    color: PINK;
 }
-.since{
-	height:auto;
-}
-.about{
-	height:auto;
-}
-.receipe{
-	height:auto;
-}
-.contact{
-	height:auto;
+.menu a:visited {
+    color:pink;
 }
