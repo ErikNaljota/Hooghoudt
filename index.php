@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<?php
-if(isset($_POST['btnSub']))
-    echo "<script>window.close();</script>";
-?>
 <html>
 	<head>
 		<title>Hooghoudt</title>
@@ -20,10 +16,10 @@ if(isset($_POST['btnSub']))
 					<p><div class="fieldsText"><h1>Are you over 21?</h1></div></p>
 
           <form action="home.php" method="post" name="yes">
-					       <p><input class="fieldsText button" style=" margin-top: 10px; float: left; margin-left:35%;" type="submit" name="submit" value="Yes"></p>
+					       <p><input class="fieldsText button" style=" margin-top: 10px; float: left;" type="submit" name="yes" value="Yes"></p>
           </form>
-          <form action="close.php" method="post" name="no">
-            <p><input class="fieldsText button" style=" margin-top: 10px; float: left; margin-left:35%;" type="submit" name="submit" value="No"></p>
+          <form action="close.php" method="post">
+            <p><input class="fieldsText button" style=" margin-top: 10px; float: left;" type="submit" name="no" value="No"></p>
           </form>
 
 		</div>
