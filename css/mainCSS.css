@@ -1,37 +1,41 @@
 *{
 	margin:0;
 	padding: 0;
-	font-family: arial;
-}
 
+}
+body{
+		/* font-family: 'PT Sans', sans-serif; */
+		font-family: 'Calibri';
+	font-size: 21pt;
+
+}
 /* body bg */
 .body{
 	float:left;
 	width: 100%;
 	background-color: #1a1a1a;
-	height: 1000px;
+	height: 1100px;
 }
 /* every page must contain */
 .header{
 	float:left;
 	width: 100%;
-	height: 10%;
-	background-color: red;
-	font-size: 21pt;
+	height: 10.2%;
+	background-color: red; /*delete*/
 }
 .logo{
 	float:left;
 	padding: 10px;
 	width: 280px;
 	height: auto;
-	background-color: blue;
+	background-color: blue; /*delete*/
 }
 /* menubar items */
 .menubar{
 	float:right;
 	width: 70%;
 	height: 100%;
-	background-color: green;
+	background-color: green; /*delete*/
 }
 
 .menu{
@@ -45,8 +49,46 @@
 }
 .menu a{
 	text-decoration: none;
-    color: PINK;
+    color: PINK; /*change*/
 }
 .menu a:visited {
-    color:pink;
+    color:pink; /*change*/
+}
+.mainpage{
+	margin: auto;
+	width: 80%;
+	height: 1080px;
+	background-color: white;
+}
+.comercial{
+	float: left;
+	margin-left: 10%;
+	margin-top: 1%;
+	width: 80%;
+	height: 40%;
+	background-color: yellow;
+	border-width: thin;
+	border-style: solid;
+	border-color: black;
+	/* box-shadow: 10px 10px 8px #888888; */
+}
+.photos{
+	float: left;
+	width: 97%;
+	height: 460px; /* change */
+	background-color: pink;
+	margin-left: 1.5%;
+	border-width: thin;
+	border-style: solid;
+	border-color: black;
+	margin-top: 10px;
+	/* box-shadow: 10px 10px 8px #888888; */
+}
+.footer{
+	width:100%;
+	margin: auto;
+	height: 45px;
+	float: left;
+	background-color: green;
+	margin-top: 5px;
 }

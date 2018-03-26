@@ -32,16 +32,20 @@
 		</div>
 	</div>
 	<div class="mainpage">
-		<!--	 (\(\
-					( -.-)      (bork)
-					o_(")(") 						-->
+		<!--
+		 (\(\
+		( -.-)      (bork)
+		o_(")(")
+	-->
 		<div class="comercial">
 		</div>
 		<div class="photos">
 		</div>
+		<div class="footer">
+			
+		</div>
 	</div>
-	<div class="footer">
-	</div>
+
 </div>
 </body>
 </html>
