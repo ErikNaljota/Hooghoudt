@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 	<head>
@@ -19,10 +18,11 @@
           <form action="home.php" method="post" name="yes">
 					       <p><input class="fieldsText button" style=" margin-top: 10px; float: left;" type="submit" name="yes" value="Yes"></p>
           </form>
-          <form action="close.php" method="post">
+          <form action="404.php" method="post">
             <p><input class="fieldsText button" style=" margin-top: 10px; float: left;" type="submit" name="no" value="No"></p>
           </form>
 
 		</div>
   </div>
+</body>
 </html>
