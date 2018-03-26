@@ -40,9 +40,12 @@
 		<div class="comercial">
 		</div>
 		<div class="photos">
+			<div class="photoLeft"></div>
+			<div class="photoMidle"></div>
+			<div class="photoRight"></div>
 		</div>
 		<div class="footer">
-			
+
 		</div>
 	</div>
 
