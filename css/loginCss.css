@@ -16,21 +16,18 @@ body{
 	margin: auto;
 	margin-top: 17%;
 	width: 310px;
-	height: 260px;
+	height: 235px;
 	position: relative;
 }
 
-.logo{
+.logoLogin{
 	float: left;
-	margin-top: 10px;
-	margin-left: 20px;
 	width: 290px;
 	height: 60px;
 }
 
 .fields{
 	float: left;
-	margin-top: 10px;
 	margin-left: 10px;
 	width: 290px;
 }
@@ -38,7 +35,8 @@ body{
 .fieldsText{
 	float: left;
 	width: 100%;
-	margin-top: 7px;
+	position: relative;
+	margin-top: -30px;
 	text-align: center;
 }
 
